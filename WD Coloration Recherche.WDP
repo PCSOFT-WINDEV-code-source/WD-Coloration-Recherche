@@ -1,0 +1,88 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Coloration Recherche
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : Le projet a pour but de ...
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : "WD Coloration Recherche "
+    internal_properties : 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
+    configuration_id : 7986217183529307124
+    type : 1
+    generation_name : WD Coloration Recherche.exe
+    version :
+     version : VI200066F
+     autoincrement_version : false
+    icon_filename : .\VST12443a.ico
+    language : 1
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAABd1WqoUzz9EeVJPjXwaEj2d39wjLSZh1Ihq3PB+vKtiy001SzN065HuPG+nOgyy2nprXeuzpx6jJBO2g==
+ elements :
+  identifier : 0x4c4d8f200011e151
+  elements :
+   -
+     name : FEN_Recherche
+     identifier : 0x4a9d50b10001ef31
+     internal_properties : CAAAAAgAAACY9kBcaxAYw4ktM4Bbp6i/amtRyfXtDoWiVVSbxF0/qQPTx7ZqXlaB7lNNq2tlHZN9hQ==
+     physical_name : .\FEN_Recherche.wdw
+     type : 2
+   -
+     name : REQ_RechercheDoc_FullText
+     identifier : 0x4a9e26010000273e
+     internal_properties : CAAAAAgAAAAqIBJ2tfK65e9P+UqdGu4BsIPvRw5eCQh2AdwK5tS4KJxyCPUomIy30HVvSckH8+UvNw==
+     physical_name : .\REQ_RechercheDoc_FullText.WDR
+     type : 5
+   -
+     name : TEST_Recherche
+     identifier : 0x4c74e84a001ef8cc
+     internal_properties : CAAAAAgAAACkooyoF0zkh10xl+RPrUBvBntV1dVtBWqiJY7pnmMpnxXp8Zx2SjrlAieRbzepUUexsQ==
+     physical_name : .\TEST_Recherche.wxt
+     type : 17
+  other_elements : []
+  analysis : .\WD Coloration Recherche.ana\WD Coloration Recherche.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ wd_style_sheet : .\WD Coloration Recherche .sty
+ wb_style_sheet : .\WD Coloration Recherche .wws
+ code_elements :
+  internal_properties : CAAAAAgAAABseimUYz4VdXZ8hGsGFqoxLDfDcHkNZdBf0iQg2FQcqmw5VrO2lryVMt3efm9RagPlXJBReauIsX3ZdB8=
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : "WD Coloration Recherche "
+     identifier : 0x4c4d8f200016e1ce
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
